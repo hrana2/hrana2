@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hrana2
+- 👋 Hi, I’m Himanshu Rana (@hrana2) 
 - 👀 I’m interested in ... Front End Development and UI/UX
 - 🌱 I’m currently learning ... React.js, p5.js, WebGL, and d3.js 
 - 📫 How to reach me ... hrana2@stevens.edu or himanshu.a.rana99@gmail.com
